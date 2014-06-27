@@ -1,0 +1,17 @@
+{
+  "name": "git-access-testing",
+  "version": "0.0.0",
+  "description": "Git Access Testing",
+  "author": "autopulated",
+  "homepage": "https://github.com/autopulated/git-access-testing",
+  "licenses": [
+    {
+      "url": "about:blank",
+      "type": ""
+    }
+  ],
+  "dependencies": {
+    "testing-dummy": "git@bitbucket.org:autopulated/testing-dummy.git",
+    "other-testing-dummy": "git@bitbucket.org:autopulated/other-testing-dummy.git#0.0.1"
+  }
+}
